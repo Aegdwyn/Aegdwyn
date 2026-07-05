@@ -13,7 +13,7 @@
 
 ## 🧙‍♂️ About Me: The Digital Alchemist
 
-I am a developer who bridges the gap between cold algorithms and esoteric philosophy. To me, coding is not just engineering; it is a modern form of alchemy—a way to build worlds, orchestrate autonomous entities (Golems), and craft digital sanctuaries. 
+I am a developer who bridges the gap between cold algorithms and esoteric philosophy. To me, coding is not just engineering; it is a modern form of alchemy, a way to build worlds, orchestrate autonomous entities (Golems), and craft digital sanctuaries. 
 
 I specialize in **System Architecture**, **AI Automation**, and **Web Ecosystems**. When I am not writing complex orchestration logic, I am cultivating safe, spiritual spaces on the web.
 
